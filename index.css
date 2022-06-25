@@ -1,0 +1,57 @@
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight:400;
+    font-size: 18px;
+}
+#blog{
+    background: #FEFCFB;
+}
+
+
+#blog .card{
+    Width: 270px;
+    Height: 388px;
+}
+
+#footer #suscribe{
+    background: #FA7436;
+    border-radius: 12px;
+    margin-bottom: 100px;
+  
+}
+#footer #suscribe .input-group{
+   
+    background: white;
+    border-radius: 8px;
+    padding: 10px;
+
+    
+}
+#footer #suscribe .btn-suscribe{
+   
+    background: #FA7436;
+    color: white;
+}
+#footer #suscribe h1{
+   
+    font-family: 'Volkhov';
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    
+}
+#footer #suscribe .email{
+   
+    border: none;
+    
+}
+
+#footer{
+    margin-top: 50px;
+    background: #F7F8FC;
+}
+#footer .title{
+    font-weight:600;
+}
