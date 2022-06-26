@@ -1,19 +1,42 @@
 body{
-    margin-left: 50px;
-    margin-right: 50px;
     font-family: 'Poppins', sans-serif;
     font-weight:400;
     font-size: 18px;
 }
-#blog{
-    background: #FEFCFB;
+
+header{
+    background-color: #FEFCFB;
 }
 
+[class="nav-item"] {
+    margin: 0px 1rem;
+}
+
+[class="nav-link"] {
+    color: black;
+}
+
+[class="nav-link"]:hover {
+    color: #FA7436;
+}
+
+.register:hover {
+    background: #FA7436;
+    border: none;
+    color: white;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #FA7436;
+    border-color: #FA7436;
+}
 
 #blog .card{
-    Width: 270px;
-    Height: 388px;
+
+    Height: 450px;
 }
+
+
 
 #footer #suscribe{
     background: #FA7436;
